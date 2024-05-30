@@ -5,7 +5,7 @@
     "tsc": "^2.0.4",
     "typescript": "^5.4.3"
   },
-  "name": "s5-currency_converter",
+  "name": "@shakir_javed/s5-currency_converter",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
